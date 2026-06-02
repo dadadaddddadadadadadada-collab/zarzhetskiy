@@ -1,0 +1,23 @@
+{
+    "title": "Шаблон: Сценарий по шаблону «Новый сценарий1»",
+    "blocks": [
+        {
+            "title": "Блок 9",
+            "order_index": 0,
+            "color": "#FFFFFF",
+            "hint": ""
+        },
+        {
+            "title": "Блок 10",
+            "order_index": 1,
+            "color": "#FFFFFF",
+            "hint": ""
+        },
+        {
+            "title": "Блок 11",
+            "order_index": 2,
+            "color": "#FFFFFF",
+            "hint": ""
+        }
+    ]
+}

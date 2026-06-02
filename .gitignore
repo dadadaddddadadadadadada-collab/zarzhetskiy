@@ -1,0 +1,12 @@
+.venv/
+.venv_old_broken/
+.idea/
+__pycache__/
+*.py[cod]
+*.pyo
+
+data/scripts/*
+!data/scripts/.gitkeep
+
+.DS_Store
+Thumbs.db

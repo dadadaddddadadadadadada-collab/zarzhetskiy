@@ -1,0 +1,23 @@
+{
+    "title": "Шаблон: Новый сценарий",
+    "blocks": [
+        {
+            "title": "введение",
+            "order_index": 0,
+            "color": "#FFFFFF",
+            "hint": "вводит"
+        },
+        {
+            "title": "основная часть",
+            "order_index": 1,
+            "color": "#FFFFFF",
+            "hint": "рассказывает"
+        },
+        {
+            "title": "заключение",
+            "order_index": 2,
+            "color": "#FFFFFF",
+            "hint": "заканчивает"
+        }
+    ]
+}
